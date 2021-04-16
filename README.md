@@ -1,4 +1,4 @@
-### Hi there 👋
+### A student, Always a student
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Kotoki1337&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true">](https://github.com/anuraghazra/github-readme-stats)
 
@@ -12,6 +12,7 @@
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![LUA](https://img.shields.io/badge/-LUA-030380?style=flat-square&logo=lua&logoColor=ffffff)](http://www.lua.org/)
+[![Typescript](https://img.shields.io/badge/-TypeScript-2f7dd1?style=flat-square&logo=Typescript&logoColor=ffffff)](http://www.lua.org/)
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
 
