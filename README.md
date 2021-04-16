@@ -4,7 +4,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotoki1337&theme=dark&layout=compact&hide_border=true&bg_color=0d1117&langs_count=8&exclude_repo=AYYWARE-1.0">](https://github.com/anuraghazra/github-readme-stats)
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kotoki1337">](https://github.com/anuraghazra/github-readme-stats)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kotoki1337&theme=dark&layout=compact&hide_border=true&bg_color=0d1117">](https://github.com/anuraghazra/github-readme-stats)
 
 付出远大于接受。
 
