@@ -19,9 +19,10 @@
 <!--
 [![NPM](https://img.shields.io/badge/-NPM-cb0000?style=flat-square&logo=npm&logoColor=ffffff)](https://www.npmjs.com/)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-34495E?style=flat-square&logo=Vue.js&logoColor=41B883)](https://www.npmjs.com/)
--->
+
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
+-->
 
 <!-- Since the Beginning
 **Kotoki1337/Kotoki1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
