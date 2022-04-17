@@ -16,6 +16,10 @@
 [![LUA](https://img.shields.io/badge/-LUA-030380?style=flat-square&logo=lua&logoColor=ffffff)](http://www.lua.org/)
 [![Typescript](https://img.shields.io/badge/-TypeScript-2f7dd1?style=flat-square&logo=Typescript&logoColor=ffffff)](http://www.lua.org/)
 
+### Important Note
+
+Most of my repositories have transfer to [HarukaKinen](https://github.com/HarukaKinen) and I'll probably disappear soon.
+
 <!--
 [![NPM](https://img.shields.io/badge/-NPM-cb0000?style=flat-square&logo=npm&logoColor=ffffff)](https://www.npmjs.com/)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-34495E?style=flat-square&logo=Vue.js&logoColor=41B883)](https://www.npmjs.com/)
