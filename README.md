@@ -6,8 +6,6 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kotoki1337&theme=dark&layout=compact&hide_border=true&bg_color=0d1117">](https://github.com/anuraghazra/github-readme-stats)
 
-付出远大于接受。
-
 ![Discord](https://img.shields.io/badge/Kotoki%231337-276627005280092162-7289DA?style=flat-square&logo=discord&logoColor=ffffff)
 
 ### Stack
