@@ -12,7 +12,7 @@
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![LUA](https://img.shields.io/badge/-LUA-030380?style=flat-square&logo=lua&logoColor=ffffff)](http://www.lua.org/)
-[![Typescript](https://img.shields.io/badge/-TypeScript-2f7dd1?style=flat-square&logo=Typescript&logoColor=ffffff)](http://www.lua.org/)
+[![Typescript](https://img.shields.io/badge/-TypeScript-2f7dd1?style=flat-square&logo=Typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 
 ### Important Note
 
