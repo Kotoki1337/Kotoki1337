@@ -13,10 +13,6 @@
 [![Typescript](https://img.shields.io/badge/-TypeScript-2f7dd1?style=flat-square&logo=Typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-b124ea?style=flat-square&logo=Kotlin&logoColor=ffffff)](https://kotlinlang.org/)
 
-### Important Note
-
-Most of my repositories have transfer to [HarukaKinen](https://github.com/HarukaKinen) and I'll probably disappear soon.
-
 <!--
 [![NPM](https://img.shields.io/badge/-NPM-cb0000?style=flat-square&logo=npm&logoColor=ffffff)](https://www.npmjs.com/)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-34495E?style=flat-square&logo=Vue.js&logoColor=41B883)](https://www.npmjs.com/)
