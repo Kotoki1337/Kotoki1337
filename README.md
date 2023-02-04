@@ -25,6 +25,8 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Kotoki1337&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true">](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+Most of my repositories have transfer to [HarukaKinen](https://github.com/HarukaKinen)
+
 <!-- Since the Beginning
 **Kotoki1337/Kotoki1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
